@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/uchat.dir/uchat/client.c.o CMakeFiles/uchat.dir/uchat/server.c.o CMakeFiles/uchat.dir/uchat/main.c.o  -o uchat 
